@@ -38,7 +38,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions, please contact
+  If you have any questions, please contact ${data.name} at ${data.email}.
 
 `;
 }

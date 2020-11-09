@@ -28,7 +28,7 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "What command should be run to install dependencies?"
+        message: "What are the steps required to install your project?"
     },
     {
         type: "input",
@@ -62,11 +62,21 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.writeFile("log.txt", process.argv[2], function(err) {
+
+        if (err) {
+          return console.log(err);
+        }
+      
+        console.log("Success!");
+      
+      });
 }
 
 // function to initialize program
 function init() {
-
+    inquirer
+    .prompt(questions)
 }
 
 // function call to initialize program
