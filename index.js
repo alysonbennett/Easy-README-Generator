@@ -1,13 +1,13 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const axios = require("axios");
+// const axios = require("axios");
 const generate = require("./utils/generateMarkdown");
 
 // array of questions for user
 const questions = [
     {
         type: "input",
-        name: "name",
+        name: "username",
         message: "What is your GitHub username?"
     },
     {
@@ -61,22 +61,42 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {
-    fs.writeFile("README.txt", process.argv[2], function(err) {
+// function writeToFile(fileName, data) {
+//     fs.writeFile("README.txt", process.argv[2], function(err) {
 
+//         if (err) {
+//           return console.log(err);
+//         }
+      
+//         console.log("Success!");
+      
+//       });
+// }
+
+inquirer
+    .prompt(questions)
+    .then(function(data) {
+
+
+    // .then(function(data) {
+    //     const queryURL = `https://api.github.com/users/${data.username}`;
+
+    // axios.get(queryURL).then(function(res) {
+
+    // })
+
+    fs.writeFile("README.md", generate(data), function(err) {
         if (err) {
-          return console.log(err);
-        }
-      
-        console.log("Success!");
-      
-      });
-}
+            throw err;
+        };
+
+    console.log("Success! Your new README file was created.")
+    });
+    });
+// })
 
 // function to initialize program
 function init() {
-    inquirer
-    .prompt(questions)
 }
 
 // function call to initialize program
