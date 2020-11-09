@@ -1,9 +1,9 @@
 
-  # test
+  # README Generator
 
   ## Description
 
-  test
+  This application will create a README file
 
   ## Table of Contents
 
@@ -16,25 +16,25 @@
 
   ## Installation
 
-  test
+  idk
 
   ## Usage
 
-  test
+  idk
 
   ## License
 
-  
+  MIT
 
   ## Contributing
 
-  test
+  idk
 
   ## Test
 
-  test
+  idk
 
   ## Questions
 
-  If you have any questions, please contact albennett at alysonbennett@gmail.com.
+  If you have any questions, please contact alysonbennett at alysonbennett@gmail.com.
 

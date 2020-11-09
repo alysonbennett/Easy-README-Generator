@@ -92,8 +92,8 @@ inquirer
 
     console.log("Success! Your new README file was created.")
     });
+
     });
-// })
 
 // function to initialize program
 function init() {
