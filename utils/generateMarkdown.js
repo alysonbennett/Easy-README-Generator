@@ -28,9 +28,9 @@ function generateMarkdown(data) {
 
   ${data.license}
 
-  ## Contributors 
+  ## Contributing
 
-  ${data.contributors}
+  ${data.contributing}
 
   ## Test
 

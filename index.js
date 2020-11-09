@@ -50,8 +50,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributors",
-        message: "Who worked on this project?"
+        name: "contributing",
+        message: "What does the user need to know about contributing to this repo?"
     },
     {
         type: "input",
@@ -62,7 +62,7 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile("log.txt", process.argv[2], function(err) {
+    fs.writeFile("README.txt", process.argv[2], function(err) {
 
         if (err) {
           return console.log(err);
