@@ -42,8 +42,8 @@ const questions = [
         default: "MIT",
         choices: [
             { name: "MIT", value: '[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)' },
-            { name: "Creative Commons", value : `[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)`},
-            { name: "GPLv3" value: '[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)' },
+            { name: "Creative Commons", value : '[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)' },
+            { name: "GPLv3", value: '[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)' },
             "None"
         ]
     },
@@ -60,29 +60,10 @@ const questions = [
 ];
 
 // function to write README file
-// function writeToFile(fileName, data) {
-//     fs.writeFile("README.txt", process.argv[2], function(err) {
-
-//         if (err) {
-//           return console.log(err);
-//         }
-
-//         console.log("Success!");
-
-//       });
-// }
-
 inquirer
     .prompt(questions)
     .then(function (data) {
 
-
-        // .then(function(data) {
-        //     const queryURL = `https://api.github.com/users/${data.username}`;
-
-        // axios.get(queryURL).then(function(res) {
-
-        // })
         console.log(data)
 
         fs.writeFile("README.md", generate(data), function (err) {

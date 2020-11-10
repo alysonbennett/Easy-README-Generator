@@ -25,8 +25,7 @@
   ## License
 
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-APACHE 2.0
-GPL 3.0
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 
   ## Contributing
 
@@ -34,7 +33,7 @@ GPL 3.0
 
   ## Test
 
-  ads
+  ad
 
   ## Questions
 
