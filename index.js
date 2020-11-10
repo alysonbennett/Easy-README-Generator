@@ -1,6 +1,6 @@
+// variables
 const inquirer = require("inquirer");
 const fs = require("fs");
-// const axios = require("axios");
 const generate = require("./utils/generateMarkdown");
 
 // array of questions for user

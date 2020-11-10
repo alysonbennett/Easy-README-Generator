@@ -3,16 +3,16 @@
 
   ## Description
 
-  This application will create a README file
+  As a developer, this application will quickly generate a professional README for a new project. 
 
   ## Table of Contents
 
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contributors](#Contributors)
-  -[Test](#Test)
-  -[Questions](#Questions)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributors](#Contributors)
+  * [Test](#Test)
+  * [Questions](#Questions)
 
   ## Installation
 
