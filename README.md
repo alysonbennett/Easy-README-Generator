@@ -1,41 +1,75 @@
+# README Generator
 
-  # asd
+## Description
 
-  ## Description
+As a developer, this application will quickly generate a professional README for a new project. 
 
-  asd
+## Table of Contents
 
-  ## Table of Contents
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributors](#Contributors)
+* [Test](#Test)
+* [Questions](#Questions)
 
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [License](#License)
-  * [Contributors](#Contributors)
-  * [Test](#Test)
-  * [Questions](#Questions)
+## Installation
 
-  ## Installation
+To successfully run this application, please do a npm install upon downloading the repo in your terminal.
 
-  asd
+## Usage
 
-  ## Usage
+idk
 
-  ads
+## Credits
 
-  ## License
+Alyson Bennett was the sole collaborator on this project. 
 
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+## License
 
-  ## Contributing
+MIT License
 
-  asd
+Copyright (c) 2020 Alyson Bennett
 
-  ## Test
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-  asd
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-  ## Questions
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-  If you have any questions, please contact [https://github.com/alysonbennett] at [alysonbennett@gmail.com].
+## Contributing
+
+Contributor Covenant Code of Conduct
+
+Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
+
+## Test
+
+idk
+
+## Questions
+
+If you have any questions, please contact alysonbennett at alysonbennett@gmail.com.
 
