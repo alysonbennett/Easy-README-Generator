@@ -7,12 +7,12 @@
 
   ## Table of Contents
 
-  -[Installation](#Installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[Contributors](#Contributors)
-  -[Test](#Test)
-  -[Questions](#Questions)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributors](#Contributors)
+  * [Test](#Test)
+  * [Questions](#Questions)
 
   ## Installation
 
