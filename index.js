@@ -41,7 +41,7 @@ const questions = [
         message: "Choose a license",
         default: "MIT",
         choices: [
-            "MIT",
+            { name: "MIT", value: '[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)' },
             "APACHE 2.0",
             "GPL 3.0",
             "BSD 3",
@@ -67,31 +67,32 @@ const questions = [
 //         if (err) {
 //           return console.log(err);
 //         }
-      
+
 //         console.log("Success!");
-      
+
 //       });
 // }
 
 inquirer
     .prompt(questions)
-    .then(function(data) {
+    .then(function (data) {
 
 
-    // .then(function(data) {
-    //     const queryURL = `https://api.github.com/users/${data.username}`;
+        // .then(function(data) {
+        //     const queryURL = `https://api.github.com/users/${data.username}`;
 
-    // axios.get(queryURL).then(function(res) {
+        // axios.get(queryURL).then(function(res) {
 
-    // })
+        // })
+        console.log(data)
 
-    fs.writeFile("README.md", generate(data), function(err) {
-        if (err) {
-            throw err;
-        };
+        fs.writeFile("README.md", generate(data), function (err) {
+            if (err) {
+                throw err;
+            };
 
-    console.log("Success! Your new README file was created.")
-    });
+            console.log("Success! Your new README file was created.")
+        });
 
     });
 

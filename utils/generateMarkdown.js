@@ -26,7 +26,7 @@ function generateMarkdown(data) {
 
   ## License
 
-  ${data.license}
+  ${data.license.join('\n')}
 
   ## Contributing
 

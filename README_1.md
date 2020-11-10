@@ -1,9 +1,9 @@
 
-  # asd
+  # README Generator
 
   ## Description
 
-  asd
+  This application will create a README file
 
   ## Table of Contents
 
@@ -16,27 +16,25 @@
 
   ## Installation
 
-  asd
+  idk
 
   ## Usage
 
-  asd
+  idk
 
   ## License
 
-  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-APACHE 2.0
-GPL 3.0
+  MIT
 
   ## Contributing
 
-  asd
+  idk
 
   ## Test
 
-  ads
+  idk
 
   ## Questions
 
-  If you have any questions, please contact asd at asd.
+  If you have any questions, please contact alysonbennett at alysonbennett@gmail.com.
 
