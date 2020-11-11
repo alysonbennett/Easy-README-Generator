@@ -17,6 +17,10 @@ As a developer, this application will quickly generate a professional README for
 
 To successfully run this application, please do a npm install upon downloading the repo in your terminal.
 
+```bash
+npm install
+```
+
 ## Usage
 
 idk
@@ -27,7 +31,7 @@ Alyson Bennett was the sole collaborator on this project.
 
 ## License
 
-MIT License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) 2020 Alyson Bennett
 
