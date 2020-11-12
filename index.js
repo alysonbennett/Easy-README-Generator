@@ -47,9 +47,8 @@ const questions = [
         default: "MIT",
         choices: [
             { name: "MIT", value: '[MIT](https://choosealicense.com/licenses/mit/)' },
-            { name: "Apache 2.0", value : '[Apache](https://choosealicense.com/licenses/apache-2.0/)' },
-            { name: "GNU GPLv2", value: '[GPLv2](https://choosealicense.com/licenses/gpl-2.0/)' },
-            { name: "CCo-1.0", value: '[Creative Commons Public Domain](https://choosealicense.com/licenses/gpl-2.0/)'},
+            { name: "GPLv2", value: '[GPLv2](https://choosealicense.com/licenses/gpl-2.0/)' },
+            { name: "Creative Commons-0", value: '[Creative Commons Public Domain](https://choosealicense.com/licenses/gpl-2.0/)'},
             "None"
         ]
     },

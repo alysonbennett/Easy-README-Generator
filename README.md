@@ -1,9 +1,13 @@
 
-  # ads
+  # ad
+
+  if [MIT](https://choosealicense.com/licenses/mit/) === "MIT" {
+    [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+  }
 
   ## Description
 
-  asd
+  ad
 
   ## Table of Contents
 
@@ -16,11 +20,11 @@
 
   ## Installation
 
-  asd
+  ad
 
   ## Usage
 
-  ads
+  asd
 
   ## License
 
@@ -30,7 +34,7 @@
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
-  asd
+  ad
 
   ## Test
 
@@ -38,5 +42,5 @@
 
   ## Questions
 
-  If you have any questions, please contact [https://github.com/asd] at [asd].
+  If you have any questions, please contact [https://github.com/asd] at [ad].
 
