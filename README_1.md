@@ -62,4 +62,4 @@ There has not been a test script written for this application yet.
 
 ## Questions
 
-If you have any questions, please contact [alysonbennett](https://github.com/alysonbennett) at alysonbennett@gmail.com.
+If you have any questions, please contact [Alyson Bennett](https://github.com/alysonbennett) at alysonbennett@gmail.com.

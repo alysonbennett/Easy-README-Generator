@@ -3,7 +3,7 @@
 
   ## Description
 
-  this is a test
+  This is a test of the applicatin
 
   ## Table of Contents
 
@@ -16,11 +16,11 @@
 
   ## Installation
 
-  test
+  Nothing yet, this is a test.
 
   ## Usage
 
-  tes
+  Nothing yet, this is a test
 
   ## License
 
@@ -30,13 +30,13 @@
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
-  test
+  Anyone can use this application!
 
   ## Test
 
-  test
+  Nothing yet, this is a test
 
   ## Questions
 
-  If you have any questions, please contact [https://github.com/alysonbennett] at [alysonbennett@gmail.com].
+  If you have any questions, please contact [Alyson](https://github.com/alysonbennett) at alysonbennett@gmail.com.
 

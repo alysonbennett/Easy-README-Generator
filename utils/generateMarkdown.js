@@ -40,7 +40,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions, please contact [https://github.com/${data.username}] at [${data.email}].
+  If you have any questions, please contact [${data.name}](https://github.com/${data.username}) at ${data.email}.
 
 `;
 }
