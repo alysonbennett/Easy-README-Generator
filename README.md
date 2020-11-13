@@ -27,7 +27,7 @@ npm install
 
 To use this application, first fork and open the repo onto your local machine. Before attempting to use the app, open your terminal and perform a ```npm install``` to get the necessary packages.
 
-![npm install](assests/npminstall.png)
+![npm install](assests/npmInstall.png)
 
 Now, while in the repo, type ```node index.js``` to start the app. Then, fill in your answers to the questions that are prompted.
 
@@ -62,4 +62,4 @@ There has not been a test script written for this application yet.
 
 ## Questions
 
-If you have any questions, please contact [https://github.com/alysonbennett] at alysonbennett@gmail.com.
+If you have any questions, please contact [alysonbennett](https://github.com/alysonbennett) at alysonbennett@gmail.com.
